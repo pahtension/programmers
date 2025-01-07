@@ -1,6 +1,4 @@
-
-
-
+# 거리두기 확인하기 https://school.programmers.co.kr/learn/courses/30/lessons/81302
 
 def solution(places):
     answer = []
@@ -30,7 +28,6 @@ def solution(places):
                                         if i[dy][dx] == "P":
                                             breakflug = True
                                             break
-                
                 if breakflug:
                     break
             if breakflug:
