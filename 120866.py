@@ -1,4 +1,5 @@
-
+# 안전지대  https://school.programmers.co.kr/learn/courses/30/lessons/120866
+  
 def solution(board):
     l = ((-1,-1),(-1,0),(-1,1),(0,-1),(0,1),(1,-1),(1,0),(1,1))
     leng = len(board)

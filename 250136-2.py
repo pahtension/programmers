@@ -1,5 +1,6 @@
-from collections import deque
+# [PCCP 기출문제] 2번 / 석유 시추  https://school.programmers.co.kr/learn/courses/30/lessons/250136
 
+from collections import deque
 
 def solution(land):
     low,col =len(land), len(land[0])
