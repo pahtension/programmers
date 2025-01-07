@@ -1,3 +1,5 @@
+#https://school.programmers.co.kr/learn/courses/30/lessons/68645
+
 def solution(n):
     answer = [[0 for j in range(i+1)] for i in range(n)]
     l = ((1,0),(0,1),(-1,-1))
